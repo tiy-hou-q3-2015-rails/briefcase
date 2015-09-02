@@ -1,0 +1,1 @@
+# Briefcase, a git example
